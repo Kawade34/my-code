@@ -1,0 +1,25 @@
+
+div{
+    background-color: rgb(215, 30, 27)
+}
+#female{
+    background-color: aliceblue;
+    color: brown;
+}
+.man,p{
+    background: rgb(229, 229, 232);
+    color: white;
+}
+/* this is the comment in the css */
+*{
+    margin: 0;
+    padding: 0;
+}
+.red{
+    background: red;
+    color: white;
+}
+.one,h1{
+    background: black;
+    color: white ;
+}

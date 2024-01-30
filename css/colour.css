@@ -1,0 +1,22 @@
+.red{
+    background: green;
+    color:white;
+}
+.pink{
+    background: red;
+    color:aqua;
+    width: 100;
+}
+#first{
+    background-color: red;
+    color :white;
+}
+#second{
+    background-color: brown;
+    color: blue;
+}
+.cl{
+    background-attachment: fixed;
+  
+
+}
